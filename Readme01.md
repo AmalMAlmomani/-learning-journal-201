@@ -131,4 +131,38 @@
  ## WireFrames:
    - is a simple sketch of the key information that needs to go on each page of a site. It shows the hierarchy of the information and how much space it might require.
    
+# Java script
+  ## How javascript makes web pages more interactive: 
+   - ACCESS CONTENT: You can use JavaScript to select any element, attribute, or text from an HTML page.
+   - MODIFY CONTENT: You can use JavaScript to add elements, attributes, and text to the page, or remove them.
+   - PROGRAM RULES: You can specify a set of steps for the browser to follow (like a recipe), which allows it to access or change the content of a page.
+   - REACT TO EVENTS: You can specify that a script should run when a specific event has occurred.
+   
+ ### A script: is a series of instructions that a computer can follow to achieve a goal.
+ **Vocabulary: The words that computers understand.**
+ **Syntax: How you put those words together to create instructions computers can follow.**
+ **Each time the script runs, it might only use a subset of all the instructions.**
+ **To approach writing a script, break down your goal into a series of tasks and then work out each step needed to complete that task (a flowchart can help).**
+ **Programmers make these models using data. That is not as strange or as scary as it sounds because the data is all the computer needs in order to follow the instructions you give it to carry out its tasks.**
+ 
+ **Methods:** represent things people need to do with objects. 
+   - They canretrieve or update the values of an object's properties.
+**Computers use data to create models of things in the real world.**
+**Using the document object, you can access and change what content users see on the page and respond to how they interact with it.**
+
+*Properties:* **describe characteristics of the current web page (such as the t itle of the page).**
+*Methods:* **perform tasks associated with the document currently loaded in the browser (such as getting information from a specified element or adding new content).**
+*Events:* **You can respond to events, such as a user clicking or tapping on an element.**
+
+ ### How a browser see a web page?
+    1: RECEIVE A PAGE AS HTML CODE
+    2: CREATE A MODEL OF THE PAGE AND STORE IT IN MEMORY 
+    3: USE A RENDERING ENGINE TO SHOW THE PAGE ON SCREEN
+    
+
+
+   
+   
+ 
+   
    
